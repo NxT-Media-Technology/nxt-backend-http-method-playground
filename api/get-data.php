@@ -20,5 +20,4 @@ if(count($_GET) != 2){
     $firstName = $_GET['first_name'];
     $lastName = $_GET['last_name'];
     echo "Whoop! Hello '.$firstName.' '.$lastName.'. Well done!\r\n";
-    echo "You can find the sourcecode for this script here: https://github.com/NxT-Media-Technology/nxt-backend-http-method-playground/blob/master/api/get-data.php";
 }

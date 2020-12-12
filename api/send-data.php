@@ -24,5 +24,5 @@ if(count($_POST) != 3){
     echo 'Whoop! Hello '.$firstName.' '.$lastName."\r\n";
     echo "Your feedback: '$feedback'\r\n";
     echo "Has been send to kevin.van.oevelen@kdg.be... Nah just kidding :p Well done! \r\n";
-    echo "You can find the sourcecode for this script here: https://github.com/NxT-Media-Technology/nxt-backend-http-method-playground/blob/master/api/send-data.php";
+    echo "You can find the sourcecode for this playground here: https://github.com/NxT-Media-Technology/nxt-backend-http-method-playground";
 }
